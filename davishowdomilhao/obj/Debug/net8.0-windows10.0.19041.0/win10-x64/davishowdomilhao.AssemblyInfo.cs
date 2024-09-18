@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("davishowdomilhao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+61e7bee00616ce1714939185cc8552c06b05a2f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+46f26faa7436ab25671923d1eb38746479cb7097")]
 [assembly: System.Reflection.AssemblyProductAttribute("davishowdomilhao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("davishowdomilhao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
