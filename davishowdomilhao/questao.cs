@@ -29,14 +29,19 @@ public Boll verifica Resposta (int rr)
 {
     if (resposta Certa == rr)
     {
-        var btn = Q
-
-
-
-
-
+        var btn = Qualbtn (rr)
+        btn backgrowColor = colors.Green;
+        return true;
+     
     }
-
+  else
+  {
+    var btnCorreto = QualBtn (buttonResposta1 Certa);
+    var btnIncorreto = QualBtn (RR);
+     btnCorreto.backgrowColor =  Colors.red;
+     btnIncorreto.backgrowColor = Colors.Red;
+     return false;
+  }
 
 
 
